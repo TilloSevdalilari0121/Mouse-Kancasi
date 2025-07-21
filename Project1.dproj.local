@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.880,C:\Users\Tbal\Desktop\Delphi\Taptap\Unit2.pas=C:\Users\Tbal\Desktop\Delphi\Taptap\MouseHookUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.530,=C:\Users\Tbal\Desktop\Delphi\Taptap\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,C:\Users\Tbal\Desktop\Delphi\Taptap\Unit2.pas=C:\Users\Tbal\Desktop\Delphi\Taptap\MouseCoordHookUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,=C:\Users\Tbal\Desktop\Delphi\Taptap\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Tbal\Desktop\Delphi\Taptap\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,C:\Users\Tbal\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Tbal\Desktop\Delphi\Taptap\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,C:\Users\Tbal\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Tbal\Desktop\Delphi\Taptap\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,=C:\Users\Tbal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,C:\Users\Tbal\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Tbal\Desktop\Delphi\Taptap\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
