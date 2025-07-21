@@ -1,4 +1,4 @@
-# Fare-Kancas-
+# Fare Kancasi
 Mouse tıklama Simülasyonu. 
 
 Nasıl Çalışır :
