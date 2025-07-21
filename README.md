@@ -15,3 +15,6 @@ Bitmeden durdurmak istersen herhangi bir yerde mouse sol tuşuna bas.
 
 Embarcadero® Delphi 12 Version 29.0.51961.7529 ile sorunsuz derlenebilir.
 
+
+Yazmakda ki amaç tap.eclipse.xyz 
+
