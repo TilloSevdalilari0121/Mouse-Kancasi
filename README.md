@@ -13,7 +13,7 @@ Başlat tuşuna bas.
 
 Bitmeden durdurmak istersen herhangi bir yerde mouse sol tuşuna bas.
 
-Embarcadero® Delphi 12 Version 29.0.51961.7529 ile sorunsuz derlenebilir.
+Embarcadero® Delphi 12 Version 29.0.51961.7529 ile sorunsuz derlenebilir. Yada TapTap.exe indirip direk kullanabilirsiniz. Win64 için derlenmiştir.
 
 
 Yazmakda ki amaç tap.eclipse.xyz 
